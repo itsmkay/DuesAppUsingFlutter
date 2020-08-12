@@ -11,3 +11,15 @@ In this project I have implemented *Provider Class* approach to provide the data
 A provider class is a special class which is declared with mixin with ChangeNotifier class.
 In provider class we can run NotifyListeners whenever we change the data inside the provider class. So that all the listener widgets can rebuild themselves with the new data provided by the provider class.
 I also used *SliverAppBar* and *SliverList* to give the app a nicer look.
+
+
+## Screenshots
+
+<p align="start">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/login_screen.png" width="250" length="600" title="Login Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/home_screen.png" width="250" length="600" title="Login Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/drawer.png" width="250" length="600" title="Login Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/add_screen.png" width="250" length="600" title="Login Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/account_screen.png" width="250" length="600" title="Login Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/settle_up_screen.png" width="250" length="600" title="Login Screen">
+</p>
