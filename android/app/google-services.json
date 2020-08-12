@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405151008418",
+    "firebase_url": "https://duesapp-13b02.firebaseio.com",
+    "project_id": "duesapp-13b02",
+    "storage_bucket": "duesapp-13b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405151008418:android:d20df383cb187acebef9fb",
+        "android_client_info": {
+          "package_name": "com.techhighway.dues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405151008418-f59njagtoifckj0nddjehf3o1a1fmdq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techhighway.dues",
+            "certificate_hash": "b4994fb263315d2406263116e67311a13a338283"
+          }
+        },
+        {
+          "client_id": "405151008418-o5gov4fvc4jajl8ub73disnqa5mlqvdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBABzLfDpYOyp8C6w5dA7E6gXfFPBLHEso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405151008418-o5gov4fvc4jajl8ub73disnqa5mlqvdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
