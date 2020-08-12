@@ -17,9 +17,9 @@ I also used *SliverAppBar* and *SliverList* to give the app a nicer look.
 
 <p align="start">
   <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/login_screen.png" width="250" length="600" title="Login Screen">
-  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/home_screen.png" width="250" length="600" title="Login Screen">
-  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/drawer.png" width="250" length="600" title="Login Screen">
-  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/add_screen.png" width="250" length="600" title="Login Screen">
-  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/account_screen.png" width="250" length="600" title="Login Screen">
-  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/settle_up_screen.png" width="250" length="600" title="Login Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/home_screen.png" width="250" length="600" title="Home Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/drawer.png" width="250" length="600" title="Drawer Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/add_screen.png" width="250" length="600" title="Add Expense Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/account_screen.png" width="250" length="600" title="Account Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/settle_up_screen.png" width="250" length="600" title="Settle up Screen">
 </p>
