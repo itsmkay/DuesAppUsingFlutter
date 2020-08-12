@@ -27,5 +27,6 @@ I also used *SliverAppBar* and *SliverList* to give the app a nicer look.
   <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/drawer.png" width="250" length="600" title="Drawer Screen">
   <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/add_screen.png" width="250" length="600" title="Add Expense Screen">
   <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/account_screen.png" width="250" length="600" title="Account Screen">
+  <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/expense_detail_screen.png" width="250" length="600" title="Expense Detail Screen">
   <img src="https://github.com/itsmkay/DuesAppUsingFlutter/raw/master/screenshots/settle_up_screen.png" width="250" length="600" title="Settle up Screen">
 </p>
